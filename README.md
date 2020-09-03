@@ -2,4 +2,3 @@
 <br>
 ![kimhankyeol's github stats](https://github-readme-stats.vercel.app/api?username=kimhankyeol&show_icons=true)
 
-[![kimhankyeol's github stats](https://github-readme-stats.vercel.app/api?username=kimhankyeol)](https://github.com/anuraghazra/github-readme-stats)
